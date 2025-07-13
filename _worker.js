@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
 
 let urls = [];
 let subConverter = "https://api.dler.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subConfig = "https://raw.githubusercontent.com/GilesGJ/ACL4SSR/refs/heads/master/Clash/config/ACL4SSR_Online_Full_MultiMode.ini"; //订阅配置文件
+let subConfig = "https://raw.githubusercontent.com/GilesGJ/ACL4SSR/refs/heads/master/Clash/config/Giles.ini"; //订阅配置文件
 let subProtocol = 'https';
 
 export default {
